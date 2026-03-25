@@ -134,3 +134,7 @@ ckpts
 data
 work_dirs
 .vscode
+
+
+results
+results_scenario_test
